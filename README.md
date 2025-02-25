@@ -22,8 +22,11 @@ These are the KPIs for each social media platform
  - Total Engagements: 637K
  - Total Followers: 38M
 
-## Trends and Patterns
-*Facebook*
+**Twitter/(X)**
+ - Total Impressions: 35M
+ - Total Engagements: 637K
+ - Total Followers: 38M
+   
 ## Trends and Patterns
 **Facebook**
 We have noticed a consistent reduction in engagements, impressions and followers from June 2024. Also, peak performance period is June 2024. 
@@ -46,7 +49,7 @@ There was a sudden deep in metric performance in September then a consistent gro
  - The days of the week with the most engagements across all the social platforms regardless of content type are Mondays, Tuesdays and Saturdays. NB: Instagram and Twitter(X) get more Saturday engagements than Facebook. This could be because people are typically free on weekends compared to weekdays.
  - For Facebook, the peak month was June, for Instagram the peak month was  June, for Instagram the peak month was October and for twitter peak month is December.
  - An interesting observation about Twitter(X) is the drastic improvement in the metric performance from September and it kept improving even until December.
- - 
+   
 ## Recommendations
  - Seeing that the number of posts significantly influences metric performance, we recommend that the social media team increases their number of posts. Note that once the posts reduce, there is always a quick and significant decline in metric performance.
  - In order to get more social media engagements, posts should be made on peak days which are Monday, Tuesday and Saturday. For Instagram and Twitter(X), more focus should be made on Saturday.
