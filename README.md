@@ -38,6 +38,7 @@ There was a sudden deep in metric performance in September then a consistent gro
 •	The social media performance was at its worse around August and September across all the social media platforms.
 •	There is a balance of engagements across all content types. 
 ## Dashboard
+![dashboard](Social-Media-Dashboard.png)
 
 ## Key Findings
  - The performance of the metrics across all platforms is majorly influenced by the number of posts made. This simply means that as posts reduces, metric performance tends to reduce too.
